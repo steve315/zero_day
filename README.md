@@ -1,2 +1,1 @@
-# Second Git Project
-## Name: Zero Day
+# Project Zero_Day
